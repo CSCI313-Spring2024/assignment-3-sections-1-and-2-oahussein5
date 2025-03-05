@@ -6,6 +6,10 @@ import { Component } from '@angular/core';
   templateUrl: './housing-location.component.html',
   styleUrl: './housing-location.component.css'
 })
+
+
 export class HousingLocationComponent {
 
 }
+
+
